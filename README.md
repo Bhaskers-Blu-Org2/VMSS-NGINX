@@ -159,7 +159,6 @@ Sample NGINX Configuration for Azure Storage, ADLS Gen2 and SQL DB: https://gith
 
 A VMSS for deploying NGINX as a TCP Stream Broker
 
-Deploy a Lab Internal VMSS with NGINX:  https://github.com/jgmitter/nginx-vmss
 
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjgmitter%2Fnginx-vmss%2Fmaster%2Fazuredeploy.json" target="_blank">

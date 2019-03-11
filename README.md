@@ -6,7 +6,7 @@ client connectivity.  While all communication with Azure Storage and SQL require
 channel, there are customers who prefer device communication with the Azure Storage and SQL service to occur
 over a private connection. 
 
-There are several important use cases where Azure Storage and SQL DB would benefit from offering a private
+There are several important use cases where Azure Storage, ADLS Gen 2and SQL DB would benefit from offering a private
 endpoint to devices and clients:
 
 -	Private traffic though ExpressRoute (e.g., factory devices with secure private IPs that use MPLS for Cloud connectivity)

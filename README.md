@@ -151,8 +151,8 @@ Enable Service Endpoint within NGINX Subnet (Shown as “nginxvmsssubnet” in t
 Testing of Storage ADLS Gen2 and SQL DB:
 
 Download the following tools to test the solution from a client perspective:
-https://azure.microsoft.com/en-us/features/storage-explorer/
-https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
+-	https://azure.microsoft.com/en-us/features/storage-explorer/
+-	https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
 
 
 Sample NGINX Configuration for Azure Storage, ADLS Gen2 and SQL DB: https://github.com/jgmitter/storage-sql/blob/master/NGINX-Storage-SQL.conf.txt

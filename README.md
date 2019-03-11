@@ -1,7 +1,7 @@
 
 # Azure Storage, ADLS Gen2 and SQL DB Over ExpressRoute Private-Peering 
 
-Currently, Microsoft Azure Storage and SQL DB services offer only public IP endpoints for device and
+Currently, Microsoft Azure Storage, ADLS Gen2 and SQL DB services offer only public IP endpoints for device and
 client connectivity.  While all communication with Azure Storage and SQL require an encrypted TLS/SSL
 channel, there are customers who prefer device communication with the Azure Storage and SQL service to occur
 over a private connection. 
